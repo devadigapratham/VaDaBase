@@ -64,7 +64,5 @@ func main() {
 		log.Fatal(err)
 	}
 
-	// Print the retrieved data
-	fmt.Println(userData)
-	fmt.Println("Works!!!")
+	fmt.Println(user)
 }
